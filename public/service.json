@@ -1,0 +1,58 @@
+
+     [
+      {
+        "id": 1,
+        "name": "Gaming Event Planning",
+        "image": "https://i.ibb.co/mcWH5wb/service2.jpg",
+        "price": "$200",
+        "description": "Get expert advice on planning and organizing your gaming event. Our seasoned event planners will provide you with a comprehensive consultation, offering insights, tips, and strategies to make your event a resounding success.",
+        "short_details":"Level up your gaming event with expert guidance! Our seasoned planners offer insights, tips, and strategies for a successful experience. Get ready for an epic event!",
+        "button_text": "Consult Now"
+      },
+      {
+        "id": 2,
+        "name": "Venue Rental",
+        "image": "https://i.ibb.co/zr933SZ/venue.jpg",
+        "price": "$1600",
+        "description": "Rent a spacious and well-equipped venue for your event. Our venues offer a comfortable and accommodating space for your attendees. With state-of-the-art facilities and a convenient location, your event will be a memorable experience for all.",
+        "short_details":"Discover the perfect venue for your event - spacious, well-equipped, and conveniently located. Book now to create unforgettable memories!",
+        "button_text": "Book Venue"
+      },
+      {
+        "id": 3,
+        "name": "On-Site Staffing",
+        "image": "https://i.ibb.co/G7ttvDm/stuff.jpg",
+        "price": "$800",
+        "description": "Hire experienced staff to manage logistics and operations during your event. Our professional team ensures smooth coordination, so you can focus on the gaming experience. From setup to teardown, we've got you covered to make your event run seamlessly.",
+        "short_details":"Elevate your event with our skilled on-site staff! Our experienced team takes care of logistics and operations, ensuring a flawless event from start to finish. Hire our staff now!",
+        "button_text": "Hire Staff"
+      } ,{
+        "id": 4,
+        "name": "Ongoing Event Entry",
+        "image": "https://i.ibb.co/D4k62fj/entry.jpg",
+        "price": "$10",
+        "description": "Join the exciting game tournament and compete for prizes. Show off your gaming skills, meet fellow gamers, and aim for victory in thrilling competitions. It's your chance to prove you're the best in the game.",
+        "short_details":"Join the gaming tournament for a chance to win prizes, meet fellow gamers, and show off your skills! Get expert guidance and level up your gaming experience. ",
+        "button_text": "Register Now"
+      },
+      {
+        "id": 5,
+        "name": "Tech Conferences and Expos",
+        "image": "https://i.ibb.co/4sZD7Dq/service1.jpg",
+        "price": "$100",
+        "description": "Discover and stay updated on the latest in tech and gaming events with our comprehensive platform. From immersive expos to insightful conferences, we bring you the ultimate event management experience.",
+        "short_details":"Explore the future of technology  at our Tech Conferences and Expos! Join us for immersive experiences, insightful conferences, and expert guidance to level up your event. ",
+        "button_text": "Get VIP Pass"
+      },
+      {
+        "id": 6,
+        "name": "Hackathons Event ",
+        "image": "https://i.ibb.co/tcQCM0K/service3.jpg",
+        "price": "$15",
+        "description": "The Hackathons Event is an opportunity to immerse yourself in the world of tech and gaming challenges. Whether you're a seasoned coder or a gaming enthusiast, this event is designed to provide you with a platform to showcase your skills, collaborate with like-minded individuals, and compete for exciting prizes and opportunities.",
+        "short_details":"Level up your Hackathons event with expert guidance! Our seasoned planners offer insights, tips, and strategies for a successful experience. Get ready for an epic event!",
+        "button_text": "Enter Contest"
+      }
+    ]
+  
+  
